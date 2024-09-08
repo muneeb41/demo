@@ -7,3 +7,5 @@ great();
 const afternoon = ()=>{
     console.log('this is afternoon');
 }
+
+afternoon();
