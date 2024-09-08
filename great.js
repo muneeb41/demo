@@ -4,3 +4,6 @@ const great = ()=>{
 
 great();
 
+const afternoon = ()=>{
+    console.log('this is afternoon');
+}
